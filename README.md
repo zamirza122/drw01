@@ -1,2 +1,1 @@
-# drw01
-Support of drw01
+The ansible playbooks are numbered 01_ through 50_ and are to be ran with ansible-playbook. 
