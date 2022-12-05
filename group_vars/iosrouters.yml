@@ -9,6 +9,6 @@ pod: 2
 
 jinja_data:
   10.10.20.175:
-    hostname: "impact-rtr1"
+    hostname: "clapjc-rtr1"
   10.10.20.176:
-    hostname: "impact-rtr2"
+    hostname: "clapjc-rtr2"
