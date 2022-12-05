@@ -12,9 +12,9 @@
       state: merged
       config:
         - vlan_id: 20
-          name: clus-guests
+          name: clapjc-guests
         - vlan_id: 30
-          name: clus-servers
+          name: clapjc-servers
 
   - name: Enable L2 interfaces
     nxos_interfaces:
