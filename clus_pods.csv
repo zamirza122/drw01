@@ -1,16 +1,2 @@
 Lab,VPN Network Address,Endpoint Port,vpn login,vpn password
 DRW01 User 1,devnetsandbox-usw1-reservation.cisco.com,20166,cmleuser1,HDQUPKLU
-DRW01 User 2,devnetsandbox-usw1-reservation.cisco.com,20199,cmleuser2,ZGPJNDRT
-DRW01 User 3,devnetsandbox-usw1-reservation.cisco.com,20200,cmleuser3,MHPQCLGH
-DRW01 User 4,devnetsandbox-usw1-reservation.cisco.com,20161,cmleuser4,TIHBTQLP
-DRW01 User 5,devnetsandbox-usw1-reservation.cisco.com,20204,cmleuser5,UJUUHHYN
-DRW01 User 6,devnetsandbox-usw1-reservation.cisco.com,20205,cmleuser6,MMCQETHJ
-DRW01 User 7,devnetsandbox-usw1-reservation.cisco.com,20212,cmleuser7,GJBEEDUE
-DRW01 User 8,devnetsandbox-usw1-reservation.cisco.com,20217,cmleuser8,XKYEHXPE
-DRW01 User 9,devnetsandbox-usw1-reservation.cisco.com,20219,cmleuser9,REMJKARH
-DRW01 User 10,devnetsandbox-usw1-reservation.cisco.com,20221,cmleuser10,NFAALSJK
-DRW01 User 11,devnetsandbox-usw1-reservation.cisco.com,20222,cmleuser11,TJTABVAW
-DRW01 User 12,devnetsandbox-usw1-reservation.cisco.com,20234,cmleuser12,CYDZJKDL
-DRW01 User 13,devnetsandbox-usw1-reservation.cisco.com,20239,cmleuser13,RCADIVYY
-DRW01 User 14,devnetsandbox-usw1-reservation.cisco.com,20240,cmleuser14,JWQCRYCT
-DRW01 User 15,devnetsandbox-usw1-reservation.cisco.com,20244,cmleuser15,IQJWFAKX
